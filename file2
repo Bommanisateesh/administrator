@@ -1,4 +1,4 @@
-# administrator}
+}
 
     public int getAlexaRanking(String domain) {
 
